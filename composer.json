@@ -1,0 +1,14 @@
+{
+    "name": "stephanbroek/site",
+    "authors": 
+    [
+        {
+            "name": "Stephan Broek",
+            "email": "stephan@sbroek.com"
+        }
+    ],
+    "require": 
+    {
+        "smarty/smarty": "*"
+    }
+}
