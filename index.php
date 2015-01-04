@@ -31,7 +31,8 @@ $url = substr($_SERVER['REQUEST_URI'],1) ?: 'index';
                <ul>
                   <li><a <?php if ($url == 'index') echo ' class="active" '; ?> href="index">Home</a></li>
                   <li><a <?php if ($url == 'me') echo ' class="active" '; ?> href="me">Me</a></li>
-                  <li><a <?php if ($url == 'portfolio') echo 'class="active" '; ?> href="portfolio">Portfolio</a></li>
+                  <li><a <?php if ($url == 'projects') echo 'class="active" '; ?> href="projects">Projects</a></li>
+                  <li><a class="external" href="https://github.com/stephanbroek">Github</a>
             </nav>
          </div>
       </div>

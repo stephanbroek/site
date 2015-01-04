@@ -24,7 +24,6 @@ div#heading {
 
 nav ul {
    float: right;
-   width: 250px;
    list-style-type: none;
    margin: 10px auto;
    padding: 0;
@@ -49,6 +48,11 @@ nav a:hover {
 nav a.active {
    color: #43CD0C;
    border-bottom: 2px solid #43CD0C;
+}
+
+nav a.external:hover {
+   color: #0D56CD;
+   border-bottom: 2px solid #0D56CD;
 }
 
 div#main {
