@@ -28,6 +28,10 @@ div#heading {
    padding: 6px 0;
 }
 
+nav {
+   height: 30px;
+}
+
 nav ul {
    float: right;
    list-style-type: none;
@@ -40,9 +44,12 @@ nav li {
 }
 
 nav a {
+   height: 19px;
+   display: block;
+   float: left;
    color: #808080;
    text-decoration: none;
-   padding: 5px;
+   padding: 0px 5px 5px 5px;
 }
 
 nav a:hover {
