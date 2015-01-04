@@ -7,7 +7,13 @@ body {
 
 div#outer {
    border-bottom: 2px solid #808080;   
-   height: 39px;
+   height: 30px;
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: 999;
+   width: 100%;
+   background-color: #111111;
 }
 
 div#header {
@@ -19,25 +25,24 @@ div#header {
 
 div#heading {
    float: left;
-   padding: 10px 0;
+   padding: 6px 0;
 }
 
 nav ul {
    float: right;
    list-style-type: none;
-   margin: 10px auto;
+   margin: 6px auto;
    padding: 0;
 }
 
 nav li {
    display: inline;
-   padding: 10px 10px;
 }
 
 nav a {
    color: #808080;
    text-decoration: none;
-   padding: 10px 6px;
+   padding: 5px;
 }
 
 nav a:hover {
@@ -50,14 +55,27 @@ nav a.active {
    border-bottom: 2px solid #43CD0C;
 }
 
+nav a.external {
+   padding-right: 15px;
+   margin-right: 5px;
+   background-image: url("../img/external.png");
+   background-position: right 45%;
+   background-repeat: no-repeat;
+}
+
 nav a.external:hover {
    color: #0D56CD;
    border-bottom: 2px solid #0D56CD;
 }
 
 div#main {
-   margin: 0 auto;
-   padding: 10px 20px;
+   margin: 32px auto 0 auto;
+   padding: 10px;
+   padding-top: 20px;
    min-width: 1000px;
    max-width: 1200px;
+}
+
+.small {
+   font-size: 50%;
 }
