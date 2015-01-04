@@ -9,6 +9,7 @@
     ],
     "require": 
     {
-        "smarty/smarty": "*"
+        "smarty/smarty": "*",
+        "erusev/parsedown": "*"
     }
 }
