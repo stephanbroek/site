@@ -1,3 +1,9 @@
+<?php
+
+$url = substr($_SERVER['REQUEST_URI'],1) ?: 'index';
+
+?>
+
 <!DOCTYPE html>
 <html>
    <head>
@@ -23,14 +29,16 @@
 
             <nav>
                <ul>
-                  <li><a class="active" href="#">Home</a></li>
-                  <li><a href="me.html">Me</a></li>
-                  <li><a href="portfolio.html">Portfolio</a></li>
+                  <li><a <?php if ($url == 'index') echo ' class="active" '; ?> href="index">Home</a></li>
+                  <li><a <?php if ($url == 'me') echo ' class="active" '; ?> href="me">Me</a></li>
+                  <li><a <?php if ($url == 'portfolio') echo 'class="active" '; ?> href="portfolio">Portfolio</a></li>
             </nav>
          </div>
       </div>
 
       <div id="main">
+
+         <?= $url;?>
          
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fringilla, nisl vel venenatis porttitor, erat erat vehicula nulla, a tincidunt nunc velit ut leo. Fusce mollis nibh vitae lectus aliquet tempus. Mauris gravida luctus accumsan. Donec euismod ornare ex, id pulvinar ipsum. Curabitur porttitor, arcu a ultrices mattis, est ante ultricies ligula, nec commodo lectus sem sed lectus. Proin cursus sapien quis tempor ornare. Nulla vitae tortor nec tortor viverra venenatis. Morbi accumsan blandit mi, vel imperdiet mi vestibulum vitae. Sed interdum odio sapien, quis fermentum ligula pellentesque sit amet. Morbi blandit lacus sagittis augue posuere tincidunt. Donec magna augue, faucibus ac tristique a, lobortis a metus. Etiam venenatis odio a lobortis convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam quis pulvinar lacus, nec pharetra dui. Aliquam finibus nulla urna, at volutpat ipsum tincidunt nec.</p>
 

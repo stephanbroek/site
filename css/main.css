@@ -7,6 +7,7 @@ body {
 
 div#outer {
    border-bottom: 2px solid #808080;   
+   height: 39px;
 }
 
 div#header {
@@ -18,9 +19,11 @@ div#header {
 
 div#heading {
    float: left;
+   padding: 10px 0;
 }
 
 nav ul {
+   float: right;
    width: 250px;
    list-style-type: none;
    margin: 10px auto;
