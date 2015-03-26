@@ -28,6 +28,7 @@
                   <li><a {if $page == 'projects'}class="active"{/if} href="projects">Projects</a></li>
                   <li><a {if $page == 'contact'}class="active"{/if} href="contact">Contact</a></li>
                   <li><a class="external" href="https://github.com/stephanbroek">Github</a>
+                  <li><a class="external" href="https://linkedin.com/in/stephanabroek">LinkedIn</a>
                   <li><a class="external" href="https://twitter.com/stephanbroek">Twitter</a>
             </nav>
          </div>
