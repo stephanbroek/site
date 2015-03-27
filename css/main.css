@@ -19,8 +19,8 @@ div#outer {
 div#header {
    margin: 0 auto;
    padding: 0px 20px;
-   min-width: 1000px;
-   max-width: 1200px;
+   min-width: 800px;
+   max-width: 1000px;
 }
 
 div#heading {
@@ -78,10 +78,16 @@ nav a.external:hover {
 div#main {
    margin: 20px auto 0 auto;
    padding: 10px;
-   min-width: 1000px;
-   max-width: 1200px;
+   min-width: 800px;
+   max-width: 1000px;
+   text-align: justify;
+   text-justify: inter-word;
 }
 
 .small {
    font-size: 50%;
+}
+
+a {
+   color: #99BB99;
 }

@@ -18,6 +18,7 @@ $smarty->setCacheDir(DIR . 'cache/');
 
 // Find the page required and default to index if none.
 $page = substr($_SERVER['REQUEST_URI'],1) ?: 'index';
+$page = ($page=='index') ? 'me' : $page; //temp, until I make an index
 
 if (!preg_match('/^[A-Za-z0-9_\/-]+$/', $page))
    redirect('index');
