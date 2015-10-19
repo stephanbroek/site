@@ -10,6 +10,8 @@ Matchchat
 
 In my first year at university I set up the company Matchchat together with 3 others students: George Bettany, James Routledge and Nabil Freeman. I mainly worked on the back-end of any development while Nabil worked on the front end and design. This became a full-time job during my second year as we were accepted into [ignite100](http://ignite.io/#accelerator). I parted ways a year later to finish my degree.
 
+During this my main roll was to to make all the products we made throughout the year work. Making sure the systems kept running and keeping up with the fluctuating demand that comes along with being a startup, dealing with the data we gathered, making that data suitable for our needs and setting up and maintaining the working environment for Nabil, me and later other developers.
+
 Interests
 =======
 
