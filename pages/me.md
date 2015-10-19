@@ -1,7 +1,7 @@
 Me
 ======
 
-Hi, I'm Stephan. Recently I have finished my degree in Computer Science at the University of Sheffield.
+Hi, I'm Stephan. As of recently I have finished my degree in Computer Science at the University of Sheffield.
 
 I grew up in Santpoort-Noord and lived here until I moved to Sheffield. This is where I completed highschool (VWO) and commuted to Delft from for a BSc Aerospace Engineering for a year. During this time I was also very active in the [local lifeguard](http://www.ijrb.nl).
 
