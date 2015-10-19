@@ -26,7 +26,7 @@ First and foremost my passion in development lies in the web sector. This is cur
 
 To this end I know a lot of programming languages and supporting tools: PHP, MySQL, Apache, NodeJS, JS, HTML, CSS and much more.
 
-For other projects where web isn't an appropriate tool I have a good knowledge of Java and have a working knowledge of C++/C and I'm currently working on improving this.
+For other projects where web isn't an appropriate tool I have a good knowledge of Java, have a working knowledge of C++/C and I'm currently working on improving this.
 
 None of these things would be any use without a platform to run it on. I have familiarized myself with both linux and windows administration. I'm far better with linux but will manage capably with both. From this combined with my web experiences a deep interest has formed for the security behind all this. From social engineering all the way down to cryptography and everything in between.
 
