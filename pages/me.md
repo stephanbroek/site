@@ -1,7 +1,7 @@
 Me
 ======
 
-Hi, I'm Stephan and I'm currently a final year BSc Computer Science student at the University of Sheffield.
+Hi, I'm Stephan. Recently I have finished my degree in Computer Science at the University of Sheffield.
 
 I grew up in Santpoort-Noord and lived here until I moved to Sheffield. This is where I completed highschool (VWO) and commuted to Delft from for a BSc Aerospace Engineering for a year. During this time I was also very active in the [local lifeguard](http://www.ijrb.nl).
 
@@ -43,6 +43,6 @@ Other
 
 Other than that while I was a student in Delft I was a part of [DARE](http://dare.tudelft.nl). DARE is a student amateur rocketry society. During my time there I was involved in 2 small rocket project teams and over the summer in the CanSat team.
 
-In Sheffield I am currently very active in the University gaming society as head tech, leading the team that makes the LAN events happen and maintain the society servers. I also train the others in the teams so they are up to taking over once I leave at the end of the year.
+In Sheffield I was very active in the University gaming society as head tech, leading the team that makes the LAN events happen and maintained the society servers. I also trained the others in the team so they were up to taking over once I left at the end of the year. This worked very well and I currently help out at a distance when they can use some help but they are fine without me.
 
 While I haven't had much time for it lately a last thing to mention here is music. I play the piano when I can find the time and currently have an Oxygen88 midi controller to do so. I'm looking forward to getting back to how good I used to be once I have more time free to invest in this.
